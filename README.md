@@ -1,37 +1,13 @@
-# presentations
+Welcome to the openEuler Presentations repository! Here you will find a collection of materials from various events and presentations hosted or attended by openEuler around the globe. This repository serves as a central hub for storing our presentation materials, slides, and related content.
 
-#### 介绍
-Collections of presentations of openEuler events
+##  Contents:
 
-#### 软件架构
-软件架构说明
+- Presentations: Browse through our collection of presentations delivered by openEuler representatives at conferences, meetups, and other events.
+- Slides: Access slides used in our presentations, covering a wide range of topics related to openEuler and open source technologies.
+- Feedback: We value your input! Feel free to provide feedback on our presentations or suggest topics for future events.
 
+##  How to Contribute:
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+If you have attended an event where openEuler presented and would like to contribute materials, please submit a pull request with your additions.
+We encourage community members to provide feedback and suggestions for improvement by opening issues in this repository.
+Thank you for your interest in openEuler presentations. We hope you find the content informative and valuable. Happy exploring!
